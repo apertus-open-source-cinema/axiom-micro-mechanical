@@ -17,7 +17,7 @@ The current enclosure design of the axiom beta is pretty open and mainly consist
 acrylic glass for the front and back side and spacers. It allows for mounting on two 15mm rig type rails.
 
 ## Hack it!
-The CAD work is done with [FreeeCAD](https://www.freecadweb.org/). Everyone is welcome to contribute to it.
+The CAD work is done with [FreeCAD](https://www.freecadweb.org/). Everyone is welcome to contribute to it.
 Just clone the repo, and start hacking. Epecially new lens mounts can be added, so that we are able to use
 all our existing glass :).
 
