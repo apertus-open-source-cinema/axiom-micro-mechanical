@@ -11,7 +11,7 @@ holding the plugin modules.
 Moreover, the same lens mount mounting system as in the beta. This allows you to use the same lens mount adapter as
 the beta. Details of the "AXIOM meta mount" can be found [here](https://wiki.apertus.org/index.php/File:AXIOM-Beta-Full-Enclosure-Main-for-Drawing-Drawing-1.png).
 Some lens mounts need thick disks under between the axiom meta mount and the adapter to reach the correct
-flange distance. 
+flange distance. For example, the micro four thirds mount needs to be combined with the 5mm shim. 
 
 The current enclosure design of the axiom beta is pretty open and mainly consists of cnc milled sheets of
 acrylic glass for the front and back side and spacers. It allows for mounting on two 15mm rig type rails.
